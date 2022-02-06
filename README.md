@@ -10,8 +10,3 @@ add some code with my idea to improve it.
 Data set used: House Pirce
 
 Reference: https://www.kaggle.com/dgawlik/house-prices-eda/notebook
-
-# Note for dimension reduction
-Found some other theory related to dimension reduction after applying PCA into the data set instead of just following the editor
-
-It will be used for marking note & try to demostrate some code from the others or some new data set
