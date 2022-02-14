@@ -13,5 +13,5 @@ Reference: https://www.kaggle.com/dgawlik/house-prices-eda/notebook
 
 ### Progress:
 1) house_price_prediction.ipynb
-- Finish the PCA part and started to initiate the dimension reduction repository (04/02/2022)
-- Upcoming target: Regression part
+- Finish Regression part & Learn about different linear regression model (Ridge/Lasso/Elastic-Net)
+- Next target: Find a new data set and apply these skill on it
